@@ -1,2 +1,7 @@
-# oznurakaro04.github.io
+# Как разобраться с зависшим подключением Telegram
+
 Короткий маршрут диагностики соединения Telegram: проверить интернет, сравнить прямой доступ и прокси, сохранить понятное описание результата.
+
+Сайт: https://oznurakaro04.github.io/
+
+Полный каталог MTProxy: https://tgmtproxy.github.io/mtproxy/
